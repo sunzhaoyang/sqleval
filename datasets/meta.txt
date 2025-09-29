@@ -1,0 +1,7 @@
+# SQL评估场景权重配置
+# 格式：场景目录名=分值
+# 总分应该等于100
+
+example=0
+index_invalidation=60
+inefficient_join=40
